@@ -9,9 +9,9 @@ Este repositório contém um pipeline completo de análise de dados, utilizando 
 ✅ **Power BI** → Construção de dashboards dinâmicos.  
 
 ## 🔍 **Descrição dos Arquivos**  
-📌 **`queries.sql`** → Contém as consultas SQL utilizadas na análise.  
-📌 **`dados.xlsx`** → Planilha com os resultados processados para importação no Power BI.  
-📌 **`dashboard.pbix`** → Relatório final com visualizações interativas.  
+📌 **`Queries do projeto 2.sql`** → Contém as consultas SQL utilizadas na análise.  
+📌 **`Análise de perfil dos clientes.xlsx`** → Planilha com os resultados processados para importação no Power BI.  
+📌 **`Dashboard - Análise de clientes.pbix`** → Relatório final com visualizações interativas.  
 
 ## 🎯 **Objetivos do Projeto**  
 Este projeto foi criado com os seguintes propósitos:  
